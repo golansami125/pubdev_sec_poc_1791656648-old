@@ -1,0 +1,6 @@
+name: pubdev_sec_poc_1791656648
+description: Security research PoC (Bloom Security) - pub.dev trusted publishing slug reuse. Throwaway package.
+version: 0.2.0
+repository: https://github.com/golansami125/pubdev_sec_poc_1791656648
+environment:
+  sdk: ">=3.0.0 <4.0.0"
